@@ -1,0 +1,13 @@
+.d-flex{
+display: flex;
+gap: 1rem;
+}
+.d-flex img{
+height: 55px;
+}
+.d-flex h1{
+font-size: 32px;
+font-weight: 500;
+color: #fff;
+text-decoration: none;
+}
