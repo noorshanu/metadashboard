@@ -70,8 +70,8 @@ export const DashboardNavbar = (props) => {
 
 
           <Box sx={{ flexGrow: 1 }} />
-
-          <button>Connect</button>
+          <div className="connect-box"><button className="connect-btn">Connect</button></div>
+          
         </Toolbar>
       </DashboardNavbarRoot>
       <AccountPopover
