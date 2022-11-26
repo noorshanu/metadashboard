@@ -20,7 +20,7 @@ const items = [
     title: 'Home'
   },
   {
-    href: '/customers',
+    href: '/squads',
     icon: (<UsersIcon fontSize="small" />),
     title: 'Squad'
   },
