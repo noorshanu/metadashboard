@@ -25,12 +25,12 @@ const items = [
     title: 'Squad'
   },
   {
-    href: '/products',
+    href: '/club',
     icon: (<ShoppingBagIcon fontSize="small" />),
     title: 'Clubs'
   },
   {
-    href: '/account',
+    href: '/market',
     icon: (<UserIcon fontSize="small" />),
     title: 'Market'
   },
