@@ -22,3 +22,14 @@ linear-gradient(0deg, #FFFFFF, #FFFFFF);
 .css-ztizd3-MuiToolbar-root{
     border-bottom: 2px solid #ff00d685;
 }
+.row{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.team-1,.team-2 h1{
+    color: #fff;
+}
+.text-center{
+    text-align: center;
+}
