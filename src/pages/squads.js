@@ -16,12 +16,12 @@ const Page = () => (
       component="main"
       sx={{
         flexGrow: 1,
-        py: 8
+        
       }}
     >
       <Container maxWidth={false}>
        
-        <Box sx={{ mt: 3 }}>
+        <Box >
           <CustomerListResults customers={customers} />
         </Box>
       </Container>
