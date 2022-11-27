@@ -31,6 +31,55 @@ export const CustomerListResults = () => {
             </div>
 
           </div>
+          <div className='team-sub'>
+            <div className='team-box'>
+              <img src="https://ik.imagekit.io/cforcrypto/metaball/Dashboard/1.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1669560518240" alt=""/>
+
+            </div>
+
+            <div className='team-box'>
+              <img src="https://ik.imagekit.io/cforcrypto/metaball/Dashboard/1.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1669560518240" alt=""/>
+
+            </div>
+
+            <div className='team-box'>
+              <img src="https://ik.imagekit.io/cforcrypto/metaball/Dashboard/1.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1669560518240" alt=""/>
+
+            </div>
+
+          </div>
+          <div className='team-sub'>
+            <div className='team-box'>
+              <img src="https://ik.imagekit.io/cforcrypto/metaball/Dashboard/1.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1669560518240" alt=""/>
+
+            </div>
+
+            <div className='team-box'>
+              <img src="https://ik.imagekit.io/cforcrypto/metaball/Dashboard/1.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1669560518240" alt=""/>
+
+            </div>
+
+            <div className='team-box'>
+              <img src="https://ik.imagekit.io/cforcrypto/metaball/Dashboard/1.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1669560518240" alt=""/>
+
+            </div>
+
+          </div>
+
+          <div className='team-sub'>
+            <div className='team-box'>
+              <img src="https://ik.imagekit.io/cforcrypto/metaball/Dashboard/1.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1669560518240" alt=""/>
+
+            </div>
+
+            <div className='team-box'>
+              <img src="https://ik.imagekit.io/cforcrypto/metaball/Dashboard/1.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1669560518240" alt=""/>
+
+            </div>
+
+          
+
+          </div>
           
         </div>
         <div className='team-2'>
@@ -53,6 +102,57 @@ export const CustomerListResults = () => {
               <img src="https://ik.imagekit.io/cforcrypto/metaball/Dashboard/1.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1669560518240" alt=""/>
 
             </div>
+
+          </div>
+
+          <div className='team-sub'>
+            <div className='team-box'>
+              <img src="https://ik.imagekit.io/cforcrypto/metaball/Dashboard/1.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1669560518240" alt=""/>
+
+            </div>
+
+            <div className='team-box'>
+              <img src="https://ik.imagekit.io/cforcrypto/metaball/Dashboard/1.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1669560518240" alt=""/>
+
+            </div>
+
+            <div className='team-box'>
+              <img src="https://ik.imagekit.io/cforcrypto/metaball/Dashboard/1.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1669560518240" alt=""/>
+
+            </div>
+
+          </div>    <div className='team-sub'>
+            <div className='team-box'>
+              <img src="https://ik.imagekit.io/cforcrypto/metaball/Dashboard/1.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1669560518240" alt=""/>
+
+            </div>
+
+            <div className='team-box'>
+              <img src="https://ik.imagekit.io/cforcrypto/metaball/Dashboard/1.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1669560518240" alt=""/>
+
+            </div>
+
+            <div className='team-box'>
+              <img src="https://ik.imagekit.io/cforcrypto/metaball/Dashboard/1.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1669560518240" alt=""/>
+
+            </div>
+
+          </div>
+
+ 
+
+          <div className='team-sub'>
+            <div className='team-box'>
+              <img src="https://ik.imagekit.io/cforcrypto/metaball/Dashboard/1.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1669560518240" alt=""/>
+
+            </div>
+
+            <div className='team-box'>
+              <img src="https://ik.imagekit.io/cforcrypto/metaball/Dashboard/1.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1669560518240" alt=""/>
+
+            </div>
+
+           
 
           </div>
         </div>

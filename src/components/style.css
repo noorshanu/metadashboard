@@ -44,4 +44,5 @@ linear-gradient(0deg, #FFFFFF, #FFFFFF);
     display: flex;
     flex-direction: row;
     justify-content: space-around;
+    padding: 2% 2%;
 }
