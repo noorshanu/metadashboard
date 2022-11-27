@@ -28,8 +28,20 @@ linear-gradient(0deg, #FFFFFF, #FFFFFF);
     justify-content: space-around;
 }
 .team-1,.team-2 h1{
+   
     color: #fff;
 }
 .text-center{
     text-align: center;
+}
+.team-1{
+    width: 50%;
+}
+.team-2{
+    width: 50%;
+}
+.team-sub{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
 }
