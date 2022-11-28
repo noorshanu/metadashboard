@@ -119,6 +119,9 @@ linear-gradient(0deg, #FFFFFF, #FFFFFF);
     border-radius: 6px;
     display: flex;
     justify-content: space-around;
+    padding: 5% 1%;
+    /* width: 109%; */
+    gap: 3rem;
 }
 .mark img{
     height: 125px;

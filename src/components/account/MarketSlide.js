@@ -19,53 +19,55 @@ export default function MarketSlide() {
             <div className='market-box-1'>
               <div className='mark'>
                 <img src="https://ik.imagekit.io/cforcrypto/metaball/Dashboard/market/player_3_green__1.png?ik-sdk-version=javascript-1.4.3&updatedAt=1669649933410" alt=""/>
-                <div className='market-btn'> $ soon...</div>
+                <div className='market-btn'> 
+                <p>$</p> soon...
+                </div>
               </div>
               <div className='mark'>
                 <img src="https://ik.imagekit.io/cforcrypto/metaball/Dashboard/market/player_3_green__1.png?ik-sdk-version=javascript-1.4.3&updatedAt=1669649933410" alt=""/>
-                <div className='market-btn'> $ soon...</div>
+                <div className='market-btn'> <p>$</p> soon...</div>
               </div>
               <div className='mark'>
                 <img src="https://ik.imagekit.io/cforcrypto/metaball/Dashboard/market/player_3_green__1.png?ik-sdk-version=javascript-1.4.3&updatedAt=1669649933410" alt=""/>
-                <div className='market-btn'> $ soon...</div>
+                <div className='market-btn'> <p>$</p> soon...</div>
               </div>
               <div className='mark'>
                 <img src="https://ik.imagekit.io/cforcrypto/metaball/Dashboard/market/player_3_green__1.png?ik-sdk-version=javascript-1.4.3&updatedAt=1669649933410" alt=""/>
-                <div className='market-btn'> $ soon...</div>
+                <div className='market-btn'> <p>$</p> soon...</div>
               </div>
               <div className='mark'>
                 <img src="https://ik.imagekit.io/cforcrypto/metaball/Dashboard/market/player_3_green__1.png?ik-sdk-version=javascript-1.4.3&updatedAt=1669649933410" alt=""/>
-                <div className='market-btn'> $ soon...</div>
+                <div className='market-btn'> <p>$</p> soon...</div>
               </div>
               <div className='mark'>
                 <img src="https://ik.imagekit.io/cforcrypto/metaball/Dashboard/market/player_3_green__1.png?ik-sdk-version=javascript-1.4.3&updatedAt=1669649933410" alt=""/>
-                <div className='market-btn'> $ soon...</div>
+                <div className='market-btn'> <p>$</p> soon...</div>
               </div>
             </div>
             <div className='market-box-2'>
             <div className='mark'>
                 <img src="https://ik.imagekit.io/cforcrypto/metaball/Dashboard/market/player_3_green__1.png?ik-sdk-version=javascript-1.4.3&updatedAt=1669649933410" alt=""/>
-                <div className='market-btn'> $ soon...</div>
+                <div className='market-btn'> <p>$</p> soon...</div>
               </div>
               <div className='mark'>
                 <img src="https://ik.imagekit.io/cforcrypto/metaball/Dashboard/market/player_3_green__1.png?ik-sdk-version=javascript-1.4.3&updatedAt=1669649933410" alt=""/>
-                <div className='market-btn'> $ soon...</div>
+                <div className='market-btn'> <p>$</p> soon...</div>
               </div>
               <div className='mark'>
                 <img src="https://ik.imagekit.io/cforcrypto/metaball/Dashboard/market/player_3_green__1.png?ik-sdk-version=javascript-1.4.3&updatedAt=1669649933410" alt=""/>
-                <div className='market-btn'> $ soon...</div>
+                <div className='market-btn'> <p>$</p> soon...</div>
               </div>
               <div className='mark'>
                 <img src="https://ik.imagekit.io/cforcrypto/metaball/Dashboard/market/player_3_green__1.png?ik-sdk-version=javascript-1.4.3&updatedAt=1669649933410" alt=""/>
-                <div className='market-btn'> $ soon...</div>
+                <div className='market-btn'> <p>$</p> soon...</div>
               </div>
               <div className='mark'>
                 <img src="https://ik.imagekit.io/cforcrypto/metaball/Dashboard/market/player_3_green__1.png?ik-sdk-version=javascript-1.4.3&updatedAt=1669649933410" alt=""/>
-                <div className='market-btn'> $ soon...</div>
+                <div className='market-btn'> <p>$</p> soon...</div>
               </div>
               <div className='mark'>
                 <img src="https://ik.imagekit.io/cforcrypto/metaball/Dashboard/market/player_3_green__1.png?ik-sdk-version=javascript-1.4.3&updatedAt=1669649933410" alt=""/>
-                <div className='market-btn'> $ soon...</div>
+                <div className='market-btn'> <p>$</p> soon...</div>
               </div>
             </div>
 
