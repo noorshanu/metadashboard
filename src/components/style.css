@@ -119,9 +119,14 @@ linear-gradient(0deg, #FFFFFF, #FFFFFF);
     border-radius: 6px;
     display: flex;
     justify-content: space-around;
-    padding: 5% 1%;
+    padding: 0% 1%;
     /* width: 109%; */
     gap: 3rem;
+}
+.market-btn p{
+    border-right: 5px solid #FF00D6;
+    padding: 3% 11%;
+
 }
 .mark img{
     height: 125px;
