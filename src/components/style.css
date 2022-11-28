@@ -90,3 +90,33 @@ linear-gradient(0deg, #FFFFFF, #FFFFFF);
     padding-top: 2%;
     padding-bottom: 3%;
 }
+.market-box{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+.market-box-1{
+    display: flex;
+    flex: auto;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-top: 1%;
+    padding-bottom: 8%;
+}
+.market-box-2{
+    display: flex;
+    flex: auto;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.market-btn{
+    background: #fff;
+    border-radius: 6px;
+    display: flex;
+    justify-content: space-around;
+}
+.mark img{
+    height: 125px;
+}
