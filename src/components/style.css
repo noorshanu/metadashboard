@@ -131,3 +131,14 @@ linear-gradient(0deg, #FFFFFF, #FFFFFF);
 .mark img{
     height: 125px;
 }
+#main-video{
+    width: 900px;
+    height: 900px;
+}
+.center{
+    position: absolute;
+    margin: auto;
+    left: 30%;
+    right: 0;
+    top: -13%;
+}

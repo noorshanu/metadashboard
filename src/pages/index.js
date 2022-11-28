@@ -3,6 +3,7 @@ import { Box, Container, Grid } from '@mui/material';
 
 
 
+
 import { DashboardLayout } from '../components/dashboard-layout';
 
 const Page = () => (
@@ -25,7 +26,13 @@ const Page = () => (
           spacing={3}
         >
       
-         
+         <div className='container'>
+          <div className='center'>
+            <video autoPlay loop muted src={"/main.mp4"} id='main-video' />
+
+          </div>
+          
+          </div>
        
      
    
