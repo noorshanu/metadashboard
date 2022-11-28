@@ -20,29 +20,68 @@ linear-gradient(0deg, #FFFFFF, #FFFFFF);
     background-color: #fff;
 }
 .css-ztizd3-MuiToolbar-root{
-    border-bottom: 2px solid #ff00d685;
+    border-bottom: 5px solid #ff00d685 !important;
 }
 .row{
     display: flex;
     align-items: center;
     justify-content: space-around;
 }
-.team-1,.team-2 h1{
-   
-    color: #fff;
+.team-1 h1{
+    font-family: 'Graduate';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    padding: 3% 0% 4% 0%;
+    color: #FFFFFF;
+}
+.team-2 h1{
+    font-family: 'Graduate';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    padding: 3% 0% 4% 0%;
+    color: #FFFFFF;
 }
 .text-center{
     text-align: center;
 }
 .team-1{
     width: 50%;
+    text-align: center;
+    border-right: 5px solid #850070;
 }
 .team-2{
     width: 50%;
+    text-align: center;
 }
 .team-sub{
     display: flex;
     flex-direction: row;
     justify-content: space-around;
     padding: 2% 2%;
+}
+
+.team-1 img{
+    height: 95px;
+    width: auto;
+}
+.team-2 img{
+    height: 95px;
+    width: auto;
+}
+.team-box img{
+    height: 155px;
+    width: auto;
+}
+.club-img img{
+   
+    width: auto;
+}
+.d-grid{
+    display: grid;
+    grid-template-columns: 0.5rem 1fr 1fr 1fr 1fr 0.5rem ;
+    justify-content: space-around;
 }

@@ -2,6 +2,7 @@ import Head from 'next/head';
 import { Box, Container, Grid } from '@mui/material';
 
 import { DashboardLayout } from '../components/dashboard-layout';
+import { ClubTeam } from '../components/club/ClubTeam';
 
 const Page = () => (
   <>
@@ -24,7 +25,7 @@ const Page = () => (
             container
             spacing={3}
           >
-         <h1>club</h1>
+         <ClubTeam/>
           </Grid>
         </Box>
      
