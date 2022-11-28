@@ -61,7 +61,7 @@ linear-gradient(0deg, #FFFFFF, #FFFFFF);
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-    padding: 2% 2%;
+    padding: 1% 2%;
 }
 
 .team-1 img{
@@ -73,7 +73,7 @@ linear-gradient(0deg, #FFFFFF, #FFFFFF);
     width: auto;
 }
 .team-box img{
-    height: 155px;
+    height: 130px;
     width: auto;
 }
 .club-img img{
