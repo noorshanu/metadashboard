@@ -21,12 +21,9 @@ const Page = () => (
       <Container maxWidth={false}>
        
         <Box sx={{ pt: 3 }}>
-          <Grid
-            container
-            spacing={3}
-          >
+         
          <ClubTeam/>
-          </Grid>
+     
         </Box>
      
       </Container>
