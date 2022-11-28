@@ -70,7 +70,7 @@ export const DashboardNavbar = (props) => {
 
 
           <Box sx={{ flexGrow: 1 }} />
-          <div className="connect-box"><button className="connect-btn">Connect</button></div>
+          <div className="connect-box"><button className="connect-btn">connect wallet</button></div>
           
         </Toolbar>
       </DashboardNavbarRoot>

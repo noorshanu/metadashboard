@@ -14,10 +14,14 @@ text-decoration: none;
 .connect-box{
     background: linear-gradient(90deg, #00FF47 0%, #00FF47 33.65%, #FAFF00 37.81%, #FAFF00 69.06%, #FF00D6 72.19%, #FF00D6 100%),
 linear-gradient(0deg, #FFFFFF, #FFFFFF);
+width: 166px;
+padding: 1px;
 
 }
 .connect-btn{
     background-color: #fff;
+    padding: 2% 10% 2% 10%;
+    font-size: 20px;
 }
 .css-ztizd3-MuiToolbar-root{
     border-bottom: 5px solid #ff00d685 !important;
