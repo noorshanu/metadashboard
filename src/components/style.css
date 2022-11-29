@@ -146,3 +146,38 @@ padding: 1px;
     right: 0;
     top: -13%;
 }
+
+@media (max-width:768px) {
+    #main-video {
+        width: 359px;
+        height: auto;
+    }
+    .center{
+        position: relative;
+        left: 7%;
+        right: 0;
+        top: 80%;
+    }
+    .row{
+flex-direction: column;
+    }
+    .team-1{
+        width: 100%;
+        border-right:none;
+        border-bottom: 2px solid #850070;
+    }
+    .team-2{
+        width: 100%;
+    }
+    .team-box img{
+        height: 96px;
+    }
+    .connect-btn{
+        background-color: #fff;
+        padding: 1% 7% 1% 7%;
+        font-size: 15px;
+    }
+    .connect-box{
+        width: 118px;
+    }
+}
