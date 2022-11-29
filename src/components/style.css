@@ -140,11 +140,11 @@ padding: 1px;
     height: 814px;
 }
 .center{
-    position: absolute;
+    position: relative;
     margin: auto;
-    left: 23%;
+    left: 5.5%;
     right: 0;
-    top: 0%;
+    top: -11%;
 }
 .market-box-section{
     padding-top: 3%;
