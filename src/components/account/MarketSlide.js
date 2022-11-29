@@ -4,6 +4,7 @@ import {  Navigation } from "swiper";
 import "swiper/css";
 import "swiper/css/pagination";
 import "swiper/css/navigation";
+import MarketBox from './MarketBox';
 export default function MarketSlide() {
   return (
     <>
@@ -140,6 +141,7 @@ export default function MarketSlide() {
       </SwiperSlide>
       
     </Swiper>
+    <MarketBox/>
   </>
   )
 }
