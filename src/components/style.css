@@ -180,4 +180,47 @@ flex-direction: column;
     .connect-box{
         width: 118px;
     }
+    .d-grid {
+      
+        grid-template-columns: repeat(2, auto);
+        width: 100%;
+       
+        gap: 1rem !important;
+      
+    }
+    .club-img img{
+        height: 118px;
+    }
+
+    .market-box-1 {
+        display: grid;
+        /* flex: auto; */
+        grid-template-columns: 1fr 1fr 1fr;
+        /* flex-direction: row; */
+        justify-content: space-around;
+        padding-top: 4%;
+        padding-bottom: 15%;
+    }
+    .market-box-2{
+        display: grid;
+        /* flex: auto; */
+        grid-template-columns: 1fr 1fr 1fr;
+        /* flex-direction: row; */
+        justify-content: space-around;
+        padding-top: 4%;
+        padding-bottom: 15%; 
+    }
+    .mark{
+        padding: 5%;
+    }
+    .mark img{
+        height: 118px;
+    }
+    .market-btn{
+        gap: 1rem;
+    }
+    .market-btn p {
+        border-right: 5px solid #FF00D6;
+        padding: 1% 2%;
+    }
 }
