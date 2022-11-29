@@ -184,6 +184,12 @@ padding: 1px;
     border-radius: 3px;
 }
 @media (max-width:768px) {
+    .box-row{
+        display: grid;
+        grid-template-columns:  1fr 1fr;
+        text-align: center;
+    
+    }
     #main-video {
         width: 359px;
         height: auto;
