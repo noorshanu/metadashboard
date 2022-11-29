@@ -1,10 +1,8 @@
 import Head from 'next/head';
 import { Box, Container, Grid } from '@mui/material';
-
-
-
-
 import { DashboardLayout } from '../components/dashboard-layout';
+
+
 
 const Page = () => (
   <>
@@ -13,6 +11,7 @@ const Page = () => (
         METABALL-CLUB | Dashboard
       </title>
     </Head>
+    
     <Box
       component="main"
       sx={{
@@ -34,14 +33,10 @@ const Page = () => (
           
           </div>
        
-     
-   
-       
-       
-       
         </Grid>
       </Container>
     </Box>
+ 
   </>
 );
 

@@ -11,6 +11,7 @@ font-weight: 500;
 color: #fff;
 text-decoration: none;
 }
+
 .connect-box{
     background: linear-gradient(90deg, #00FF47 0%, #00FF47 33.65%, #FAFF00 37.81%, #FAFF00 69.06%, #FF00D6 72.19%, #FF00D6 100%),
 linear-gradient(0deg, #FFFFFF, #FFFFFF);

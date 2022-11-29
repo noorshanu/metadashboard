@@ -6,6 +6,10 @@ import MenuIcon from "@mui/icons-material/Menu";
 // import SearchIcon from "@mui/icons-material/Search";
 import { FaTwitter, FaTelegram, FaLinkedin,FaGithub } from "react-icons/fa";
 import { AccountPopover } from "./account-popover";
+import {
+  ConnectButton,
+
+} from "@rainbow-me/rainbowkit";
 
 const DashboardNavbarRoot = styled(AppBar)(({ theme }) => ({
   backgroundColor: theme.palette.background.paper,
@@ -70,7 +74,7 @@ export const DashboardNavbar = (props) => {
 
 
           <Box sx={{ flexGrow: 1 }} />
-          <div className="connect-box"><button className="connect-btn">connect wallet</button></div>
+          <div > <ConnectButton className='connect-btn' label="Connet Wallet" /></div>
           
         </Toolbar>
       </DashboardNavbarRoot>
