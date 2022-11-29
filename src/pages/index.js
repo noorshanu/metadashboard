@@ -28,7 +28,7 @@ const Page = () => (
       
          <div className='container'>
           <div className='center'>
-            <video autoPlay loop muted src={"/main.mp4"} id='main-video' />
+            <video autoPlay loop  src={"/main.mp4"} id='main-video' />
 
           </div>
           

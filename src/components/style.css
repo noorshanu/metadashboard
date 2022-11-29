@@ -136,15 +136,15 @@ padding: 1px;
     height: 125px;
 }
 #main-video{
-    width: 900px;
-    height: 900px;
+    width: 1112px;
+    height: 814px;
 }
 .center{
     position: absolute;
     margin: auto;
-    left: 30%;
+    left: 23%;
     right: 0;
-    top: -3%;
+    top: 0%;
 }
 .market-box-section{
     padding-top: 3%;
