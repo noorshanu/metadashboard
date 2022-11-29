@@ -136,13 +136,13 @@ padding: 1px;
     height: 125px;
 }
 #main-video{
-    width: 1112px;
+    width: 1020px;
     height: 814px;
 }
 .center{
     position: relative;
     margin: auto;
-    left: 5.5%;
+    left: 9.5%;
     right: 0;
     top: -11%;
 }
